@@ -1,4 +1,4 @@
-## Hi there 👋
+Tinkering in hopes to contribute to safety within multiple communities.
 
 <!--
 **shapeshiftcustoms/shapeshiftcustoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
