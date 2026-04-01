@@ -1,5 +1,6 @@
 Tinkering in hopes to contribute to safety within multiple communities.
 
+Founder, Shapeshift Customs LLC — embedded systems, patent-pending motorcycle safety products
 <!--
 **shapeshiftcustoms/shapeshiftcustoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
